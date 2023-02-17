@@ -1,5 +1,5 @@
 # Sobre Mim
-- 👋 Hi, I’m @bea2904
+- 👋 Hi, I’m Bea
 - 👀 I'm interested in being better
 - 🌱 I'm currently learning java script and scratch
 - 💞️ I'm looking to collaborate with everyone
